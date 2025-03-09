@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project aims to detect whether a person is wearing a face mask using computer vision and deep learning techniques. The model is trained to classify images into three categories: wearing a mask, not wearing a mask, and improperly wearing a mask. The objective is to provide an accurate and reliable solution for real-time face mask detection.
+This project aims to detect whether a person is wearing a face mask using computer vision and deep learning techniques. The model is trained to classify images into two categories: wearing a mask and not wearing a mask. The objective is to provide an accurate and reliable solution for real-time face mask detection.
 
 ## Features
 
@@ -14,7 +14,7 @@ This project aims to detect whether a person is wearing a face mask using comput
 ## Model
 
 - A CNN-based deep learning model is used for classification.
-- Transfer learning techniques such as VGG16, MobileNetV2, or ResNet can be applied to enhance accuracy.
+- Transfer learning technique using **VGG16** is applied to enhance accuracy.
 
 ## Contribution
 
